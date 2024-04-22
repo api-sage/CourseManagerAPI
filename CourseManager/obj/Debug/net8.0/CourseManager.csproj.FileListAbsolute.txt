@@ -1,0 +1,15 @@
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\bin\Debug\net8.0\CourseManager.deps.json
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\bin\Debug\net8.0\CourseManager.runtimeconfig.json
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\bin\Debug\net8.0\CourseManager.dll
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\bin\Debug\net8.0\CourseManager.pdb
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.csproj.AssemblyReference.cache
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.AssemblyInfoInputs.cache
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.AssemblyInfo.cs
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.csproj.CoreCompileInputs.cache
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.sourcelink.json
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.dll
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\refint\CourseManager.dll
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.pdb
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\CourseManager.genruntimeconfig.cache
+C:\Users\paula\Documents\DigitalLab\TechMavericks\CourseManager\CourseManager\obj\Debug\net8.0\ref\CourseManager.dll

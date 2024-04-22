@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseManager.API", "CourseManager.API\CourseManager.API.csproj", "{A1CA977F-6147-42C4-A459-2834C5FCA6F9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E4E543F0-6507-4E12-8A08-99A0B2EDCEC3} = {E4E543F0-6507-4E12-8A08-99A0B2EDCEC3}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseManager", "CourseManager\CourseManager.csproj", "{E4E543F0-6507-4E12-8A08-99A0B2EDCEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CA977F-6147-42C4-A459-2834C5FCA6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CA977F-6147-42C4-A459-2834C5FCA6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CA977F-6147-42C4-A459-2834C5FCA6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CA977F-6147-42C4-A459-2834C5FCA6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E543F0-6507-4E12-8A08-99A0B2EDCEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E543F0-6507-4E12-8A08-99A0B2EDCEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E543F0-6507-4E12-8A08-99A0B2EDCEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E543F0-6507-4E12-8A08-99A0B2EDCEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA853ED-8213-4356-B9BF-533BCD8A07D5}
+	EndGlobalSection
+EndGlobal
